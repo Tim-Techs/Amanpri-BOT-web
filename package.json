@@ -30,7 +30,7 @@
         "lodash.mergewith": "^4.6.2",
         "mem": "^5.1.1",
         "mixin-deep": "^2.0.1",
-        "set-value": "^3.0.1",
+        "set-value": "^4.0.1",
         "simplebar": "^2.6.1",
         "tar": "^4.4.10",
         "webpack-dev-server": "^3.8.0"
